@@ -31,9 +31,11 @@ products:
       potente... com tudo isso a Chevrolet foi a líder de vendas pelo menos
       nesse período.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Nossos Valores Profissionais
+  text: "Feito de pessoas que amam carros para pessoas que sabem apreciar a
+    qualidade e estilo desses gigantes que marcaram a história automobilística.
+    Não é fácil encontrar carros com mais de 50 anos de uso em condições
+    perfeitas, por isso realizamos restaurações completas nos carros para
+    entregar , a você cliente,  a melhor imerção e experiência que esses belos
+    carros passavam na sua época de ouro.  "
 ---
