@@ -1,20 +1,39 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Carros de Valor
+subtitle: Aqui você encontra relíquias à venda
+image: img/maxresdefault.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Por Quê Carros Antigos ?
+  text: Com a eletrônica embarcada dos automóveis atuais, é muito mais fácil
+    detectar um problema mecânico. Mas é cada vez mais complicado fazer um
+    reparo de emergência usando um arame ou aprender mecânica de forma
+    autodidata, desmontando um carburador em um sábado à tarde.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: O Que Oferecemos ?
+  text: "Olá meu caro amante de relíquias de 4 rodas,  nossa garagem automotiva é
+    totalmente especializada em negociar carros que foram e continuam sendo a
+    paixão de muitos aventureiros no mercado. Todos os nossos carros são
+    restaurados e com certeza vão chamar a atenção de muita gente em encontros
+    de carros antigos ou até mesmo naquele passeio de final de semana até a
+    praia. "
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/camaro.jpg
+    text: "CHEVROLET CAMARO SS CONVERSÍVEL - 1968. Esportivo da Chevrolet, produzido
+      desde 1966, trata-se de um Muscle Car que seria a resposta da GM ao Ford
+      Mustang. Nosso SS possui motor V8-350 de 5.7 litros e 210 HP... câmbio
+      automático, ar condicionado e capota elétrica. Interior original e em
+      excelente estado, assim como sua parte mecânica e lataria. "
+  - image: img/roadster.jpg
+    text: CHEVROLET ROADSTER - 1928. A Chevrolet lançou o Roadster 28 para combater
+      o seu rival Ford Modelo A. O resultado desta competição foi um Chevrolet
+      aprimorado com freios nas 4 rodas, faróis melhores, para-brisa
+      escamoteável, distância entre eixos maior e motor 4 cilindros mais
+      potente... com tudo isso a Chevrolet foi a líder de vendas pelo menos
+      nesse período.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: Coffee is an amazing part of human culture but it has a dark side too –
+    one of colonialism and mindless abuse of natural resources and human lives.
+    We want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
-
