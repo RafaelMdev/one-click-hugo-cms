@@ -13,20 +13,25 @@ values:
       Panhard et Levassor. No ano de 1892, o conhecido Henry Ford fabricou seu
       primeiro carro, o Ford, na América do Norte.
     imageUrl: img/henry.jpg
-  - heading: Sustainable farming
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-    imageUrl: /img/about-sustainable-farming.jpg
-  - heading: Direct sourcing
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-direct-sourcing.jpg
+  - heading: Primeiro Carro Ingês
+    text: O primeiro carro inglês a ser produzido foi o Lanchester, porém os
+      ingleses entraram na concorrência um pouco mais tarde, se comparado aos
+      outros países europeus, devido a uma lei vigente na época, conhecida como
+      “bandeira vermelha” – o automóvel não poderia ultrapassar os 10 km por
+      hora e deveria levar na frente uma pessoa segurando uma bandeira vermelha
+      para sinalizar aos pedestres que o automóvel estava passando, a pelo menos
+      60 metros de distância, a noite costumava-se utilizar uma lanterna.
+    imageUrl: img/lanchester.jpg
+  - heading: Rolls Royce
+    text: >-
+      Em 1904 foi fabricado o primeiro Rolls Royce contendo um aparelho composto
+      por vários canos em forma de arco e ventilador, destinado a impedir que a
+      água em circulação alcance temperatura prejudicial, o qual é conhecido até
+      hoje como radiador e que não sofreria nenhuma mudança.
+
+
+      Os países europeus continuaram a diversificar sua frota, na França surgiu o De Dion Bouton, Berliet, Rapid, na Itália veio o Fiat e o Alfa Romeo, na Alemanha surgiu o Mercedes-Benz; A Suíça e a Espanha para diversificar resolveram criar uma série mais possante e esplendorosa: o Hispano-Suiza.
+    imageUrl: img/rolssroyce.jpg
   - heading: Reinvest profits
     text: >
       We want to truly empower the communities that bring amazing coffee to you.
