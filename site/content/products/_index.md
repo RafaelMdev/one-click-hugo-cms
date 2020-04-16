@@ -1,102 +1,61 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+title: Nossos Carros
+image: img/carrao.jpg
+heading: Os Antigos Mais Lindos do Mercado
+description: Fique a Vontade Para Explorar
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: img/buick.jpg
+      text: BUICK – 1931 - R$480.000
+    - image: img/cobra.jpg
+      text: COBRA GASPLAC – 1984 - R$ 125.000
+    - image: img/dodge.jpg
+      text: DODGE CHARGER - 1972 - R$ 195.000
+    - image: img/ford.jpg
+      text: FORD T BUCKET - 1929 (HOT ROD) - R$ 180.000
+  heading: Os Mais Belos Carros Estão Aqui
+  description: Oferecemos carros com história, carros clássicos que carregam
+    lembranças. Prezamos pela transparência na venda de carros antigos, tendo
+    como primordial objetivo a cumplicidade com seus clientes.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Como Proceder
+  description: Assim Que Escolher o Carro do Seu Interesse Entre em Contato nos
+    Enviando um Email Para Agendar Uma Visita
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Lindo TARGA Amarelo
+    image: img/targa.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Linda Ferrari
+    image: img/ferrari.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Mustang Hatch
+    image: img/mustang.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - author: Paulo Sardagna
+    quote: Realmente os carros são ótimos e o atendimento é perfeito
+  - author: Eliza Hamm
+    quote: Finalmente realizei meu sonho de poder andar em um carro com mais de 40
+      anos sem me preocupar com nada !
+full_image: img/antigo.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Condições de Compra
+  description: Nós fazemos o possível para concretizar a venda da melhor forma
+    possível. Realize seu sonho sem pagar juros abusivos com o nosso próprio
+    sistema de financiamento, confira abaixo.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Seguro
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - Parcelas A partir de R$ 3.500 Mensais
+        - 60 Parcelas
+        - Juros Baixos
+      plan: Sem Entrada
+      price: 150Mil
+    - description: Com Entrada de R$30.000
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Parcelas de R$2.000
+        - 60 Parcelas
+        - Seguro
+      plan: Com Entrada
+      price: 150Mil
+type: products
 ---
-
-
