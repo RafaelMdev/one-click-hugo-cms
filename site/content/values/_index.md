@@ -32,11 +32,11 @@ values:
 
       Os países europeus continuaram a diversificar sua frota, na França surgiu o De Dion Bouton, Berliet, Rapid, na Itália veio o Fiat e o Alfa Romeo, na Alemanha surgiu o Mercedes-Benz; A Suíça e a Espanha para diversificar resolveram criar uma série mais possante e esplendorosa: o Hispano-Suiza.
     imageUrl: img/rolssroyce.jpg
-  - heading: Reinvest profits
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-reinvest-profits.jpg
+  - heading: Economia Mundial
+    text: No decorrer dos anos os automóveis vêm se transformando, passando a ser
+      objeto de desejo de milhares de pessoas, sem dizer que o processo que
+      envolve a produção proporciona emprego a milhares de pessoas no mundo
+      inteiro agitando bilhões de dólares e trazendo amplos lucros para as
+      grandes empresas fabricantes.
+    imageUrl: img/car.jpg
 ---
