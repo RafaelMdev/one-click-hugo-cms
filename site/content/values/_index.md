@@ -7,13 +7,12 @@ values:
       locomover foi um automóvel que continha somente três rodas e foi criado no
       ano de 1885 por um alemão de nome Karl Benz.
     imageUrl: img/karl.jpg
-  - heading: Single origin
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-    imageUrl: /img/about-single-origin.jpg
+  - heading: Henry Ford
+    text: A partir de então teve início a corrida pela produção e venda de
+      automóveis, iniciada por uma empresa francesa conhecida pelo nome de
+      Panhard et Levassor. No ano de 1892, o conhecido Henry Ford fabricou seu
+      primeiro carro, o Ford, na América do Norte.
+    imageUrl: img/henry.jpg
   - heading: Sustainable farming
     text: >
       Sustainable agriculture is farming in sustainable ways based on an
