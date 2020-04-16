@@ -9,7 +9,7 @@ blurb:
     reparo de emergência usando um arame ou aprender mecânica de forma
     autodidata, desmontando um carburador em um sábado à tarde.
 intro:
-  heading: O Que Oferecemos ?
+  heading: "O Que Oferecemos "
   text: "Olá meu caro amante de relíquias de 4 rodas,  nossa garagem automotiva é
     totalmente especializada em negociar carros que foram e continuam sendo a
     paixão de muitos aventureiros no mercado. Todos os nossos carros são
