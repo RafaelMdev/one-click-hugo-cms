@@ -1,19 +1,14 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/logo_size.jpg
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Localização
+    text: Rio do Oeste,Santa Catarina, Centro, Número 550
+  - heading: Horários
+    text: "Segunda – Sexta: 8:00 – 18:00 Sábado 08:00 – 12:00"
 ---
+Ficou interessado e quer saber como entrar em contato com a gente para negociar seu belo carro antigo ? 
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+<h3 class="f4 b lh-title mb2">Estou Interessado, Como Faço ?</h3>
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Logo abaixo você verá um formulário , basta prencher com seus dados e enviar. Entraremos em contato o mais breve possível para agendar uma visita e fazer um test drive do veículo da sua escolha.
